@@ -35,29 +35,10 @@
     </string-array>
 
 
-    <string-array name="actors">
-        <item>Johnny Depp </item>
-        <item>Al Pacino </item>
-        <item> Robert De Niro </item>
-        <item> Kevin Spacey </item>
-        <item>Denzel Washington </item>
-        <item> Brad Pitt </item>
-    </string-array>
-
-    <string-array name="time">
-        <item>1Hour,30Mins</item>
-        <item>2 Hours</item>
-    </string-array>
-
-    <string-array name="director">
-        <item>Alfred Hitchcock</item>
-        <item>Stanley Kubrick</item>
-        <item>Billy Wilder</item>
-    </string-array>
-
-    <string-array name="industry">
-        <item>Hollywood</item>
-        <item>Bollywood</item>
+    <string-array name="language">
+        <item>ENG</item>
+        <item>FRA</item>
+        <item>DUT</item>
     </string-array>
 
 
